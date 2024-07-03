@@ -1,5 +1,13 @@
-<p align="center"><img width="180" alt="portfolio_view" src="badge.png"></p>
-<p align="center"><img width="300" alt="portfolio_view" src="kubernetes.png"></p>
+- https://medium.com/@mrJTY/kubernetes-cka-exam-cheat-sheet-6194ccf162bb
+- https://github.com/moabukar/CKA-Exercises/blob/main/Useful-Commands%20%26%20Aliases.md
+- https://www.devopsmadness.com/cka_cheatsheet/
+- https://github.com/ismet55555/Certified-Kubernetes-Administrator-Notes
+- https://blog.zuthof.nl/2022/09/26/cka-preparation-part-2-vim-cheat-sheet/
+- https://www.amarjitdhillon.com/k8s/cka-exam-commands/
+- https://100daysofdevops.com/certified-kubernetes-administrator-cka-day-1/
+- https://computingforgeeks.com/kubectl-cheat-sheet-for-kubernetes-cka-exam-prep/
+
+
 <h4 align="center"><a href="https://www.cncf.io/certification/cka/">https://www.cncf.io/certification/cka/</a></h3>
 <h1 align="center">Certified Kubernetes Administrator (CKA) Notes</h1>
 
