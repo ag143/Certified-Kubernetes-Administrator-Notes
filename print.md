@@ -7,6 +7,12 @@
 - https://100daysofdevops.com/certified-kubernetes-administrator-cka-day-1/
 - https://computingforgeeks.com/kubectl-cheat-sheet-for-kubernetes-cka-exam-prep/
 
+- hihttps://www.bluematador.com/learn/kubectl-cheatsheet
+- https://www.pluralsight.com/resources/blog/cloud/kubernetes-cheat-sheet
+- https://kubernetes.io/docs/reference/kubectl/quick-reference/
+- https://spacelift.io/blog/kubernetes-cheat-sheet
+- https://www.tutorialspoint.com/kubernetes/kubernetes_quick_guide.htm
+
 
 <h4 align="center"><a href="https://www.cncf.io/certification/cka/">https://www.cncf.io/certification/cka/</a></h3>
 <h1 align="center">Certified Kubernetes Administrator (CKA) Notes</h1>
